@@ -4,7 +4,7 @@
  * @start 2016-09-26
  * @last 2016-09-29
  */
-;(function()
+(function()
 {
 	var dict = {}; // 存储所有字典数据
 	var pinyinUtil =
